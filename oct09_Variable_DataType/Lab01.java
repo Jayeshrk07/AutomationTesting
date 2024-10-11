@@ -1,4 +1,4 @@
-package Oct.oct09;
+package Oct.oct09_Variable_DataType;
 //premitive data types
 public class Lab01 {
     public static void main(String[] args) {

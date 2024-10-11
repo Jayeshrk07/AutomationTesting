@@ -1,4 +1,4 @@
-package Oct.oct09;
+package Oct.oct09_Variable_DataType;
 
 public class Lab03 {
     public static void main(String[] args) {

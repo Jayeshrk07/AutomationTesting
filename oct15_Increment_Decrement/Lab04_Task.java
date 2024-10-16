@@ -1,6 +1,6 @@
 package Oct.oct15_Increment_Decrement;
 
-public class Lab04 {
+public class Lab04_Task {
     public static void main(String[] args) {
         int a =10;
         System.out.println(++a + a++ + a++);
